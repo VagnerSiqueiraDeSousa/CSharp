@@ -1,0 +1,8 @@
+D:\AulasCSharp\aprendendoCSharp\9.2-testeEscopo\obj\Debug\9.2-testeEscopo.csproj.AssemblyReference.cache
+D:\AulasCSharp\aprendendoCSharp\9.2-testeEscopo\obj\Debug\9.2-testeEscopo.csproj.SuggestedBindingRedirects.cache
+D:\AulasCSharp\aprendendoCSharp\9.2-testeEscopo\obj\Debug\9.2-testeEscopo.csproj.CoreCompileInputs.cache
+D:\AulasCSharp\aprendendoCSharp\9.2-testeEscopo\bin\Debug\9.2-testeEscopo.exe.config
+D:\AulasCSharp\aprendendoCSharp\9.2-testeEscopo\bin\Debug\9.2-testeEscopo.exe
+D:\AulasCSharp\aprendendoCSharp\9.2-testeEscopo\bin\Debug\9.2-testeEscopo.pdb
+D:\AulasCSharp\aprendendoCSharp\9.2-testeEscopo\obj\Debug\9.2-testeEscopo.exe
+D:\AulasCSharp\aprendendoCSharp\9.2-testeEscopo\obj\Debug\9.2-testeEscopo.pdb
