@@ -1,0 +1,8 @@
+D:\AulasCSharp\aprendendoCSharp\9.1-testeCondicionais2\bin\Debug\9.1-testeCondicionais2.exe.config
+D:\AulasCSharp\aprendendoCSharp\9.1-testeCondicionais2\bin\Debug\9.1-testeCondicionais2.exe
+D:\AulasCSharp\aprendendoCSharp\9.1-testeCondicionais2\bin\Debug\9.1-testeCondicionais2.pdb
+D:\AulasCSharp\aprendendoCSharp\9.1-testeCondicionais2\obj\Debug\9.1-testeCondicionais2.csproj.AssemblyReference.cache
+D:\AulasCSharp\aprendendoCSharp\9.1-testeCondicionais2\obj\Debug\9.1-testeCondicionais2.csproj.SuggestedBindingRedirects.cache
+D:\AulasCSharp\aprendendoCSharp\9.1-testeCondicionais2\obj\Debug\9.1-testeCondicionais2.csproj.CoreCompileInputs.cache
+D:\AulasCSharp\aprendendoCSharp\9.1-testeCondicionais2\obj\Debug\9.1-testeCondicionais2.exe
+D:\AulasCSharp\aprendendoCSharp\9.1-testeCondicionais2\obj\Debug\9.1-testeCondicionais2.pdb
