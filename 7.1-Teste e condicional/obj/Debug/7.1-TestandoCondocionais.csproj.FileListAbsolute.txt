@@ -1,0 +1,8 @@
+D:\AulasCSharp\aprendendoCSharp\7.1-Teste e condicional\bin\Debug\7.1-Teste e condicional.exe.config
+D:\AulasCSharp\aprendendoCSharp\7.1-Teste e condicional\bin\Debug\7.1-Teste e condicional.exe
+D:\AulasCSharp\aprendendoCSharp\7.1-Teste e condicional\bin\Debug\7.1-Teste e condicional.pdb
+D:\AulasCSharp\aprendendoCSharp\7.1-Teste e condicional\obj\Debug\7.1-TestandoCondocionais.csproj.AssemblyReference.cache
+D:\AulasCSharp\aprendendoCSharp\7.1-Teste e condicional\obj\Debug\7.1-TestandoCondocionais.csproj.SuggestedBindingRedirects.cache
+D:\AulasCSharp\aprendendoCSharp\7.1-Teste e condicional\obj\Debug\7.1-TestandoCondocionais.csproj.CoreCompileInputs.cache
+D:\AulasCSharp\aprendendoCSharp\7.1-Teste e condicional\obj\Debug\7.1-Teste e condicional.exe
+D:\AulasCSharp\aprendendoCSharp\7.1-Teste e condicional\obj\Debug\7.1-Teste e condicional.pdb
