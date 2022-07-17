@@ -1,0 +1,15 @@
+D:\AulasCSharp\csharp\6-atribuicoesVariaveis\9.3-ImpostoDeRenda\bin\Debug\net6.0\9.3-ImpostoDeRenda.exe
+D:\AulasCSharp\csharp\6-atribuicoesVariaveis\9.3-ImpostoDeRenda\bin\Debug\net6.0\9.3-ImpostoDeRenda.deps.json
+D:\AulasCSharp\csharp\6-atribuicoesVariaveis\9.3-ImpostoDeRenda\bin\Debug\net6.0\9.3-ImpostoDeRenda.runtimeconfig.json
+D:\AulasCSharp\csharp\6-atribuicoesVariaveis\9.3-ImpostoDeRenda\bin\Debug\net6.0\9.3-ImpostoDeRenda.dll
+D:\AulasCSharp\csharp\6-atribuicoesVariaveis\9.3-ImpostoDeRenda\bin\Debug\net6.0\9.3-ImpostoDeRenda.pdb
+D:\AulasCSharp\csharp\6-atribuicoesVariaveis\9.3-ImpostoDeRenda\obj\Debug\net6.0\9.3-ImpostoDeRenda.csproj.AssemblyReference.cache
+D:\AulasCSharp\csharp\6-atribuicoesVariaveis\9.3-ImpostoDeRenda\obj\Debug\net6.0\9.3-ImpostoDeRenda.GeneratedMSBuildEditorConfig.editorconfig
+D:\AulasCSharp\csharp\6-atribuicoesVariaveis\9.3-ImpostoDeRenda\obj\Debug\net6.0\9.3-ImpostoDeRenda.AssemblyInfoInputs.cache
+D:\AulasCSharp\csharp\6-atribuicoesVariaveis\9.3-ImpostoDeRenda\obj\Debug\net6.0\9.3-ImpostoDeRenda.AssemblyInfo.cs
+D:\AulasCSharp\csharp\6-atribuicoesVariaveis\9.3-ImpostoDeRenda\obj\Debug\net6.0\9.3-ImpostoDeRenda.csproj.CoreCompileInputs.cache
+D:\AulasCSharp\csharp\6-atribuicoesVariaveis\9.3-ImpostoDeRenda\obj\Debug\net6.0\9.3-ImpostoDeRenda.dll
+D:\AulasCSharp\csharp\6-atribuicoesVariaveis\9.3-ImpostoDeRenda\obj\Debug\net6.0\refint\9.3-ImpostoDeRenda.dll
+D:\AulasCSharp\csharp\6-atribuicoesVariaveis\9.3-ImpostoDeRenda\obj\Debug\net6.0\9.3-ImpostoDeRenda.pdb
+D:\AulasCSharp\csharp\6-atribuicoesVariaveis\9.3-ImpostoDeRenda\obj\Debug\net6.0\9.3-ImpostoDeRenda.genruntimeconfig.cache
+D:\AulasCSharp\csharp\6-atribuicoesVariaveis\9.3-ImpostoDeRenda\obj\Debug\net6.0\ref\9.3-ImpostoDeRenda.dll
