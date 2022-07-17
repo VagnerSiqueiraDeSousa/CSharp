@@ -1,0 +1,15 @@
+D:\AulasCSharp\csharp\6-atribuicoesVariaveis\9.4-switch\obj\Debug\net6.0\9.4-switch.csproj.AssemblyReference.cache
+D:\AulasCSharp\csharp\6-atribuicoesVariaveis\9.4-switch\obj\Debug\net6.0\9.4-switch.GeneratedMSBuildEditorConfig.editorconfig
+D:\AulasCSharp\csharp\6-atribuicoesVariaveis\9.4-switch\obj\Debug\net6.0\9.4-switch.AssemblyInfoInputs.cache
+D:\AulasCSharp\csharp\6-atribuicoesVariaveis\9.4-switch\obj\Debug\net6.0\9.4-switch.AssemblyInfo.cs
+D:\AulasCSharp\csharp\6-atribuicoesVariaveis\9.4-switch\obj\Debug\net6.0\9.4-switch.csproj.CoreCompileInputs.cache
+D:\AulasCSharp\csharp\6-atribuicoesVariaveis\9.4-switch\bin\Debug\net6.0\9.4-switch.exe
+D:\AulasCSharp\csharp\6-atribuicoesVariaveis\9.4-switch\bin\Debug\net6.0\9.4-switch.deps.json
+D:\AulasCSharp\csharp\6-atribuicoesVariaveis\9.4-switch\bin\Debug\net6.0\9.4-switch.runtimeconfig.json
+D:\AulasCSharp\csharp\6-atribuicoesVariaveis\9.4-switch\bin\Debug\net6.0\9.4-switch.dll
+D:\AulasCSharp\csharp\6-atribuicoesVariaveis\9.4-switch\bin\Debug\net6.0\9.4-switch.pdb
+D:\AulasCSharp\csharp\6-atribuicoesVariaveis\9.4-switch\obj\Debug\net6.0\9.4-switch.dll
+D:\AulasCSharp\csharp\6-atribuicoesVariaveis\9.4-switch\obj\Debug\net6.0\refint\9.4-switch.dll
+D:\AulasCSharp\csharp\6-atribuicoesVariaveis\9.4-switch\obj\Debug\net6.0\9.4-switch.pdb
+D:\AulasCSharp\csharp\6-atribuicoesVariaveis\9.4-switch\obj\Debug\net6.0\9.4-switch.genruntimeconfig.cache
+D:\AulasCSharp\csharp\6-atribuicoesVariaveis\9.4-switch\obj\Debug\net6.0\ref\9.4-switch.dll
